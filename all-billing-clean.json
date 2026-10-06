@@ -1,0 +1,456 @@
+[
+  {
+    "accountId": "starlink-lokasi-1",
+    "accountName": "Sta. Met. Kelas III Kufar Seram Bagian Timur",
+    "alokasi": "BMKG",
+    "noKit": "KIT403150520JGD",
+    "lastScraped": "2026-10-06T16:13:13.138Z",
+    "isSuspended": true,
+    "billingCycle": "-",
+    "balanceDue": "IDR 1,750,000",
+    "balanceDueDate": "7/10/2026",
+    "invoicesCount": 2,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2156152-13619-92",
+        "date": "7/10/2026",
+        "dueDate": "7/10/2026",
+        "type": "Subscription",
+        "method": "Card",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Cancelled"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2009196-97417-5",
+        "date": "6/10/2026",
+        "dueDate": "6/10/2026",
+        "type": "Order",
+        "method": "Card",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      }
+    ]
+  },
+  {
+    "accountId": "starlink-lokasi-2",
+    "accountName": "HF radar bajo 1",
+    "alokasi": "BMKG",
+    "noKit": "KIT403517599CFX",
+    "lastScraped": "2026-10-06T16:13:24.776Z",
+    "isSuspended": false,
+    "billingCycle": "September 10 - October 9",
+    "balanceDue": "IDR 0",
+    "balanceDueDate": "9/10/2026",
+    "invoicesCount": 4,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2480044-60578-98",
+        "date": "9/10/2026",
+        "dueDate": "9/10/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2308481-66390-0",
+        "date": "8/10/2026",
+        "dueDate": "8/10/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2155667-11703-94",
+        "date": "7/10/2026",
+        "dueDate": "7/10/2026",
+        "type": "Subscription",
+        "method": "Card",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2009215-99842-1",
+        "date": "6/10/2026",
+        "dueDate": "6/10/2026",
+        "type": "Order",
+        "method": "Card",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      }
+    ]
+  },
+  {
+    "accountId": "starlink-lokasi-4",
+    "accountName": "bmkg",
+    "alokasi": "BMKG",
+    "noKit": "KIT403517599CFX",
+    "lastScraped": "2026-10-06T16:13:37.221Z",
+    "isSuspended": false,
+    "billingCycle": "September 28 - October 27",
+    "balanceDue": "IDR 1,750,000",
+    "balanceDueDate": "8/28/2026",
+    "invoicesCount": 9,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2408156-97792-10",
+        "date": "8/28/2026",
+        "dueDate": "8/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2248511-63680-96",
+        "date": "7/28/2026",
+        "dueDate": "7/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2097543-57475-8",
+        "date": "6/28/2026",
+        "dueDate": "6/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1953405-64540-96",
+        "date": "5/28/2026",
+        "dueDate": "5/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1810335-10480-84",
+        "date": "4/28/2026",
+        "dueDate": "4/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1667897-39831-18",
+        "date": "3/28/2026",
+        "dueDate": "3/28/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1604111-78363-91",
+        "date": "3/13/2026",
+        "dueDate": "3/13/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 861,890",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1604107-21207-81",
+        "date": "3/13/2026",
+        "dueDate": "12/28/2025",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1287638-75807-12",
+        "date": "12/28/2025",
+        "dueDate": "12/28/2025",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Cancelled"
+      }
+    ]
+  },
+  {
+    "accountId": "starlink-lokasi-5",
+    "accountName": "bmkg2sdad",
+    "alokasi": "BMKG",
+    "noKit": "KIT403517599CFX",
+    "lastScraped": "2026-10-06T16:13:50.630Z",
+    "isSuspended": false,
+    "billingCycle": "October 4 - November 3",
+    "balanceDue": "IDR 1,750,000",
+    "balanceDueDate": "9/4/2026",
+    "invoicesCount": 4,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2441243-62460-88",
+        "date": "9/4/2026",
+        "dueDate": "9/4/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2275461-12448-96",
+        "date": "8/4/2026",
+        "dueDate": "8/4/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2123434-79323-93",
+        "date": "7/4/2026",
+        "dueDate": "7/4/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1979600-26495-8",
+        "date": "6/4/2026",
+        "dueDate": "6/4/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      }
+    ]
+  },
+  {
+    "accountId": "starlink-lokasi-3",
+    "accountName": "Ruang Pusdalops BPBD Kab. Serang",
+    "alokasi": "BMKG",
+    "noKit": "KIT303927592",
+    "lastScraped": "2026-10-06T16:14:02.610Z",
+    "isSuspended": false,
+    "billingCycle": "October 5 - November 4",
+    "balanceDue": "IDR 1,750,000",
+    "balanceDueDate": "9/5/2026",
+    "invoicesCount": 9,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2449742-26238-3",
+        "date": "9/5/2026",
+        "dueDate": "9/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2282078-64000-89",
+        "date": "8/5/2026",
+        "dueDate": "8/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2129547-42071-94",
+        "date": "7/5/2026",
+        "dueDate": "7/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2004183-31333-81",
+        "date": "6/9/2026",
+        "dueDate": "6/9/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 1,405,951",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1837948-80544-11",
+        "date": "5/5/2026",
+        "dueDate": "5/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1813317-55167-98",
+        "date": "4/29/2026",
+        "dueDate": "4/29/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 308,604",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1813311-62254-87",
+        "date": "4/29/2026",
+        "dueDate": "1/5/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1314083-97538-2",
+        "date": "1/5/2026",
+        "dueDate": "1/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Cancelled"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1197488-37419-12",
+        "date": "12/5/2025",
+        "dueDate": "12/5/2025",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      }
+    ]
+  },
+  {
+    "accountId": "starlink-lokasi-6",
+    "accountName": "bin",
+    "alokasi": "BMKG",
+    "noKit": "KIT303927592",
+    "lastScraped": "2026-10-06T16:14:14.914Z",
+    "isSuspended": false,
+    "billingCycle": "October 5 - November 4",
+    "balanceDue": "IDR 1,750,000",
+    "balanceDueDate": "9/5/2026",
+    "invoicesCount": 9,
+    "invoices": [
+      {
+        "invoiceNumber": "INV-DF-IDN-2449742-26238-3",
+        "date": "9/5/2026",
+        "dueDate": "9/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2282078-64000-89",
+        "date": "8/5/2026",
+        "dueDate": "8/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2129547-42071-94",
+        "date": "7/5/2026",
+        "dueDate": "7/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,750,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-2004183-31333-81",
+        "date": "6/9/2026",
+        "dueDate": "6/9/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 1,405,951",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1837948-80544-11",
+        "date": "5/5/2026",
+        "dueDate": "5/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1813317-55167-98",
+        "date": "4/29/2026",
+        "dueDate": "4/29/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 308,604",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1813311-62254-87",
+        "date": "4/29/2026",
+        "dueDate": "1/5/2026",
+        "type": "Order",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1314083-97538-2",
+        "date": "1/5/2026",
+        "dueDate": "1/5/2026",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Cancelled"
+      },
+      {
+        "invoiceNumber": "INV-DF-IDN-1197488-37419-12",
+        "date": "12/5/2025",
+        "dueDate": "12/5/2025",
+        "type": "Subscription",
+        "method": "GoPay",
+        "total": "IDR 1,639,000",
+        "balance": "IDR 0",
+        "status": "Paid"
+      }
+    ]
+  }
+]
